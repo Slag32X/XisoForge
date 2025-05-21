@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivd88ETeHQw=",
+  "success": true,
+  "projectFilePath": "G:\\repos\\XisoForgeGUI\\XisoForgeGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aurel\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
