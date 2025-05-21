@@ -1,6 +1,7 @@
 # XisoForge (extract-xiso GUI)
 
 XisoForge est une interface graphique en WPF (.NET 9.0) pour l’outil extract-xiso, utilisé pour manipuler les fichiers XISO de la Xbox Originale.
+
 ## Capture d’écran
 ![Image Alt](https://github.com/Slag32X/XisoForge/blob/2ca518c3058d27415a408e821c530e4e45f6c88b/Capture.png)
 
@@ -16,7 +17,7 @@ XisoForgeGUI simplifie l’utilisation de l’outil extract-xiso en proposant un
 
 ## Prérequis
 - Windows 10 ou supérieur.
-- .NET 9.0 Runtime installé.
+- **.NET 9.0 Desktop Runtime** installé (obligatoire pour exécuter l’application WPF). Téléchargez-le ici : [Télécharger .NET 9.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0/runtime)
 
 ## Installation
 1. Téléchargez la dernière version de XisoForgeGUI depuis la page des releases.
