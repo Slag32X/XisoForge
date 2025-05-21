@@ -29,3 +29,6 @@ XisoForgeGUI simplifie l’utilisation de l’outil extract-xiso en proposant un
 2. Selon le mode, sélectionnez le fichier XISO ou le dossier source.
 3. Configurez les options nécessaires (dossier de sortie, etc.).
 4. Lancez l’opération.
+
+## extract-xiso
+5. https://github.com/XboxDev/extract-xiso/tree/master
